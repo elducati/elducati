@@ -1,6 +1,6 @@
 ### Hi there, I'm Geoffrey Omondi - aka [Jeff | el'Ducati] 👋
 
-[![LinkedIn](https://www.linkedin.com/in/jeff-omondi/)](LinkedIn)
+[![LinkedIn](https://www.linkedin.com/in/jeff-omondi/)](https://media-exp1.licdn.com/dms/image/C560EAQG-vFJExWo_1w/rightRail-logo-shrink_200_200/0?e=1601200800&v=beta&t=SW-h36ihRO1DNW4q6SC0RSOfF0VDwT6JPRv_n92zwJU)
 [![Github](https://github.com/elducati/)](Github)
 
 ## I'm a Husband, Father, Developer, and Teacher!
