@@ -1,22 +1,21 @@
 ### Hi there, I'm Geoffrey Omondi - aka [Jeff | el'Ducati] 👋
 
-[![LinkedIn](https://www.linkedin.com/in/jeff-omondi/)](https://media-exp1.licdn.com/dms/image/C560EAQG-vFJExWo_1w/rightRail-logo-shrink_200_200/0?e=1601200800&v=beta&t=SW-h36ihRO1DNW4q6SC0RSOfF0VDwT6JPRv_n92zwJU)
-[![Github](https://github.com/elducati/)](Github)
+==========================================================
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Frontend Developer, Magento e-commerce admin, and Dancer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently levelling up my skills at [Openclassrooms][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other developers to create awesome things
+- 🥅 2020 Goals: To be a better Frontend Engineer
+- ⚡ Fun fact: I love afro-latin dances and music
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="linkedin.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -82,15 +81,15 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=elducati&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://openclassrooms.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/jeff-omondi/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
