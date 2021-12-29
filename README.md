@@ -1,14 +1,14 @@
-### Hi there, I'm Geoffrey Omondi - aka [Jeff | el'Ducati] 👋
+### Hi there, I'm Geoffrey Omondi-[Jeff | El'Ducati] 👋
 
 ==========================================================
 
-## I'm a Frontend Developer, Magento e-commerce admin, and Dancer!
+## I'm a Frontend Developer!
 
-- 🔭 I’m currently levelling up my skills at [Openclassrooms][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently levelling up my skills on React, building NFTs and DAOs with Buildspace
+- 🌱 I build and deploy Magento CMS websites
 - 👯 I’m looking to collaborate with other developers to create awesome things
-- 🥅 2020 Goals: To be a better Frontend Engineer
-- ⚡ Fun fact: I love afro-latin dances and music
+- 🥅 2022 Goals: Build and deploy NFTs with Buildspace, learn, build and deploy DAOs. 
+- ⚡ Fun fact: I code with epic music in the background.
 ---
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
