@@ -7,7 +7,7 @@
 - 🔭 I’m currently levelling up my skills on React, building NFTs and DAOs with Buildspace
 - 🌱 I build and deploy Magento CMS websites
 - 👯 I’m looking to collaborate with other developers to create awesome things
-- 🥅 2022 Goals: Build and deploy NFTs with Buildspace, learn, build and deploy DAOs
+- 🥅 2022 Goals: Build and deploy NFTs with Buildspace. Learn, build and deploy DAOs
 - ⚡ Fun fact: I code with epic music in the background
 ---
 ### Spotify Playing 🎧
