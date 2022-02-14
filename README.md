@@ -16,6 +16,7 @@
 - Solidity, Javascript, ReactJs, NextJs, Hardhat, Candy Machine, Metaplex
 
 - Fun fact: I code with epic music in the background
+- My email: geomondi09@gmail.com
 
 
 <br>
