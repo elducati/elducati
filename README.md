@@ -14,7 +14,7 @@
 - I’m currently building NFTs, DAOs and deploying smart contracts  
 - Community member of Buildspace, LearnWeb3DAO and DeveloperDAO
 - I’m looking to collaborate with other developers to create awesome things 
-- 2022 Goals: Build and deploy NFTs with Buildspace. Learn, build and deploy DAOs
+
 - Fun fact: I code with epic music in the background
 
 <br>
