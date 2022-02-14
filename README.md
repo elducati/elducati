@@ -7,7 +7,6 @@
     alt="elducati" /> 
   </p>
 
-<br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="elducati /></p>
 
@@ -16,7 +15,7 @@
 - I’m looking to collaborate with other developers to create awesome things 
 
 - Fun fact: I code with epic music in the background
-- Contact me at geomondi09@gmail.com
+
 
 <br>
 
