@@ -12,7 +12,8 @@
 
 - I’m currently building NFTs, DAOs and deploying smart contracts  
 - Community member of Buildspace, LearnWeb3DAO and DeveloperDAO
-- I’m looking to collaborate with other developers to create awesome things 
+- I’m looking to collaborate with other developers to create awesome things
+- Solidity, Javascript, ReactJs, NextJs, Hardhat, Candy Machine, Metaplex
 
 - Fun fact: I code with epic music in the background
 
