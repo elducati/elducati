@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Geoffrey Omondi-[El'Ducati] </h1>
+<h1 align="center"> <"El'Ducati"/>👋 </h1>
 <h3 align="center">Web3.0 Fullstack Engineer🌟.</h3>
 
 <br>
