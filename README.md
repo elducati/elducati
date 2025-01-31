@@ -1,5 +1,5 @@
 <h1 align="center"> <"El'Ducati"/>👋</h1>
-<h3 align="center">Web3.0 Fullstack Engineer🌟.</h3>
+<h3 align="center">Web Developer🌟.</h3>
 
 <br>
 
@@ -10,12 +10,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="elducati" /></p>
 
-- I’m currently building NFTs, DAOs and deploying smart contracts  
-- Community member of Buildspace, LearnWeb3DAO and Pointer_gg
-- I’m looking to collaborate with other developers to create awesome things
-- Solidity, Javascript, ReactJs, NextJs, Hardhat, Candy Machine, Metaplex
-- Fun fact: I code with epic music in the background
-- My email: geomondi09@gmail.com
+E-Commerce Solutions Architect | Crafting High-Converting Stores with WordPress, Shopify & Magento. Web Developer extra-ordinaire.
 
 
 <br>
