@@ -1,49 +1,68 @@
-<h1 align="center"> <"El'Ducati"/>🤖</h1>
-<h3 align="center">Idea Synthesizer🧠</h3>
+# El'Ducati
+
+<p align="center">
+  <strong>Idea Synthesizer — turning half-baked thoughts into shipped products.</strong>
+</p>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=elducati&label=Profile%20views&color=0e75b6&style=flat"
-    alt="elducati" /> 
-  </p>
+<p align="center">
+  Frontend engineer who builds with React, Next.js, and Node.js. Focused on clean interfaces, fast feedback loops, and turning ambiguous problems into elegant solutions.
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elducati&label=Profile%20views&color=7F77DD&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="elducati" /></p>
+---
 
+## Tech Stack
 
-<br>
+### Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a>  <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a>  <a href="/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+### Runtime & Language
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
 
-<br>
+### Tooling
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elducati&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="elducati" /></p>
+---
 
-<!-- <br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=adam-pw&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> </p> -->
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elducati&show_icons=true&theme=dark&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elducati&layout=compact&theme=dark&bg_color=0d1117&title_color=7F77DD" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elducati&theme=dark&background=0d1117&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD" alt="GitHub Streak" />
+</div>
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://github.com/elducati">
+    <img src="https://img.shields.io/badge/GitHub-elducati-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- TODO: Replace [your-handle] with your actual Twitter/X handle -->
+  <a href="https://twitter.com/[your-handle]">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <!-- TODO: Replace [your-linkedin-url] with your actual LinkedIn profile URL -->
+  <a href="[your-linkedin-url]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
