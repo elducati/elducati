@@ -26,12 +26,28 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
 ### Runtime & Language
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Solidity-3776AB?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+</p>
+
+### Backend & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### Web3 & Blockchain
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Web3-7F77DD?style=for-the-badge&logo=web3&logoColor=white" alt="Web3" />
 </p>
 
 ### Tooling
@@ -43,10 +59,28 @@
 
 ## GitHub Stats
 
-<div align="center">  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elducati&show_icons=true&theme=dark&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elducati&layout=compact&theme=dark&bg_color=0d1117&title_color=7F77DD" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elducati&theme=dark&background=0d1117&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD" alt="GitHub Streak" />
 </div>
 
 ---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://github.com/elducati">
+    <img src="https://img.shields.io/badge/GitHub-elducati-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- TODO: Replace [your-handle] with your actual Twitter/X handle -->
+  <a href="https://twitter.com/[your-handle]">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <!-- TODO: Replace [your-linkedin-url] with your actual LinkedIn profile URL -->
+  <a href="[your-linkedin-url]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 
