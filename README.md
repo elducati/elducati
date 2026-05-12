@@ -1,5 +1,5 @@
-<h1 align="center"> <"El'Ducati"/>👋</h1>
-<h3 align="center">Web Developer🌟.</h3>
+<h1 align="center"> <El'Ducati/>🤖</h1>
+<h3 align="center">Idea Synthesizer🧠</h3>
 
 <br>
 
@@ -10,20 +10,6 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="elducati" /></p>
 
-E-Commerce Solutions Architect | Crafting High-Converting Stores with WordPress, Shopify & Magento. Web Developer extra-ordinaire.
-
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/jeff-omondi/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="elducati" height="30" width="40" /></a>    
- <a href="https://twitter.com/el_ducati" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-</p>
 
 <br>
 
