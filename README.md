@@ -7,6 +7,12 @@
 <br>
 
 <p align="center">
+  <img src="https://github.com/elducati/elducati/blob/master/animation_500_kxa883sd.gif" alt="elducati" width="200" />
+</p>
+
+<br>
+
+<p align="center">
   Frontend engineer who builds with React, Next.js, and Node.js. Focused on clean interfaces, fast feedback loops, and turning ambiguous problems into elegant solutions.
 </p>
 
