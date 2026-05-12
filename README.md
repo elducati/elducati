@@ -1,4 +1,4 @@
-<h1 align="center"> <El'Ducati/>🤖</h1>
+<h1 align="center"> <"El'Ducati"/>🤖</h1>
 <h3 align="center">Idea Synthesizer🧠</h3>
 
 <br>
