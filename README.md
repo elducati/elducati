@@ -7,9 +7,6 @@
   <strong>Idea Synthesizer</strong>
 </p>
 
-<p align="center">
-  Frontend engineer who builds with React, Next.js, and Node.js. Focused on clean interfaces, fast feedback loops, and turning ambiguous problems into elegant solutions.
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=elducati&label=Profile%20views&color=7F77DD&style=flat" alt="Profile views" />
